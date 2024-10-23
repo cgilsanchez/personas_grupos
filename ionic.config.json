@@ -1,0 +1,7 @@
+{
+  "name": "personas_grupos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
